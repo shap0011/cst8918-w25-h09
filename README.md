@@ -1,4 +1,4 @@
-CST8918 - DevOps: Infrastructure as Code  
+CST8918 - DevOps: Infrastructure as Code \
 Student: Olga Durham \
 St#: 040687883  
 
